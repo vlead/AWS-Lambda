@@ -1,0 +1,142 @@
+#+Title:  Summer Internship Plan, 2016
+#+Date: June 3, 2016
+#+Author: Systems and Server team
+
+
+* Introduction
+This document describes goals, responsibilities, participants, plans and other
+important details which are required to conduct summer internship program,
+benefiting both intern and VLEAD.
+
+* Projects 
+** AWS Lambda 
+Read about AWS Lambda from http://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+** AWS Docker 
+Read about AWS Docker from https://aws.amazon.com/docker/
+* Interns and Mentors
+
+  |-------+---------+------------+--------------+--------------|
+  | S.No. | Name    | Project    | Mentor       | Bakup mentor |
+  |-------+---------+------------+--------------+--------------|
+  |    1. | Meghana | AWS Docker | Siva Shakkar | Ashay        |
+  |-------+---------+------------+--------------+--------------|
+  |    2. | Ganesh  | AWS Lambda | Ashay        | Shiva        |
+  |-------+---------+------------+--------------+--------------|
+ 
+  
+* Goals and intentions
++ Suggest a strategy to shift our architecture from AWS VMs to either AWS Lambda or AWS Docker.
++ Document learning and come up with a solution addressing Performance,
+  security, scalability and cost benefits of using Docker or Lambda.
++ Compare current AWS VM architecture with Possibilities in Docker and Lambda. 
+
+* Role of Mentor/Supervisor
++ Conducting or helping interns in induction program.
++ Assist interns to settle transition with new technologies and environment.
++ Take session in productive way, with more hands-on and least spoon feeding.
++ Share required knowledge with interns so that they can proceed ahead with assignments.
++ Communicate regulary with interns and listen to their views and concerns.
++ Propose a plan every week, on how to proceed ahead with coming week.
++ Review documents created by interns including their work reports and other documents to verify their learning.
++ Let interns feel comfortable and calm to inculcate positive outlook for the different assignments given to them.
+
+* Role of an Intern
++ Contribute in the respective projects assigned.
++ Properly document learning in mentioned format and get it reviewed from mentor.
++ Understand the plan decided by mentors and raise concerns if any.
++ Do not freez and communicate mentors after applying enough efforts.
+
+* Expectations from interns after accomplishment of internship
+Project kept under Systems are more of exploration. Interns are expected to have thorough understanding on the project 
+assigned to them and must be able to put up a nice presentation.
+We have our current architecture in AWS. Interns are expected to compare AWS VM, AWS Lambda and AWS Docker architecture in the following concerns -
+** Performance 
+Our current architecture with AWS VMs is giving high degree of performance in terms of availablity, zero downtime, easy of handling, scalability and 
+security. Cost optimization is the concern as wit every VM, the AWS billing is increaing. If we can acheive same performance, with either AWS Docker 
+or AWS Docker, can we acheive cost optimization.
+** Cost
+Cost of Current arcitecture in form of AWS VM is not feasible and is increaing exponentially. This is a pain area and as per the suggestions
+AWS Lambda and AWS Docker can reduce it to a nice extent.
+** Ease of Handling
+How easy it would be to handle tecnical issues. 
+** Scalability
+In current AWS VM architecture, one can easily add, remove and add a new VM without disturbing exsting VMs. This ease of scalability is to be
+defined in terms of AWS Lambda or AWS Docker 
+** Security
+AWS VMs are secured and all the security issues are implicitly handled by AWS. We only add ACLs and key based authentication to VMs.
+How secure will be AWS Lambda or Docker ? Are there some security flaws observed in both Lambda and Docker ??
+
+** Robustness of architecture
+Minor changes should not result in disturbance to healthy running component.
+AWS being a gaint in cloud could have taken care of this.
+
+* Week wise plan(only for first 2 weeks)
+** Bootcamp(week 1 to week 3) [May 16,2016 ,June 5 2016]
+First week includes a similiar plan for all interns. 
+An induction/boot camp will be conducted for an ice breaking session with individuals and also with new technologies 
+used in Virtual Labs. 
+** Week 4 
+**** Basics of networking and networking in linux
+This session is required to introduce interns with terms which will be used
+while working in systems project. This can include the following -
++ IP addressing and subnet mask
++ Basic linux commands to check networking related issues.
++ Basic linux commands to work in Linux environment 
+
+**** Introduce interns with VLEAD assests on web, which can be referred/used 
++ VLEAD wiki, which can be accessed using LDAP credentials and contains notes 
++ Point to notes on sbarjatiya.com whenever required
+
+**** Concepts of Virtualization 
+Interns must have clear understanding on virtualization concepts.  
+**** Introduce OpenVZ 
+Handson practice of openVz, to have a feel of container based virtualization.
+**** Introduce Virtual labs on Cloud
+In dept information may not be required, but - 
++ Introduction to all the components of our cluster.
++ Introdution to base machines 
+
+**** Introduce to VLEAD private cloud and its components
+For interns to understand our private cloud infrastructure is necessary. With this,
+they will get an idea to compare their task with what we have today.
+
+**** Introduce Systems model
+Introducing interns with our System's model is important for giving an initial
+walk for expected pace.  This complete procedure will include sessions for all
+major technologies required to work in Systems environment of VLEAD.
+
+
+
+ 
+
+ 
+
+
+
+* Sessions
+Following will be the sessions taken from June 3, 2016 for next week(week 4)
+
+|------+--------------------------------------------------------------------------------+------------+------------|
+| S.No | Session                                                                        | Tutor      | Date(2016) |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|    1 | Basic linux commands                                                           | Self       | June 3     |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|    2 | Basic Networking                                                               | Ashay      | June 6     |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|    3 | Networking in Linux                                                            | Siva/Ashay | June 6     |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|    4 | Overview of VLEAD local infrastructure(Introduction only)                      | Ashay/Siva | June 7     |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|    5 | Virtualization Concepts                                                        | Ashay      | June 7     |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|    6 | Hands on with OpenVz                                                           | Sanchita   | June 7     |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|    7 | Detailed study of VLEAD infrastructure(Apache, DNS, Reverse proxy, router etc) | Siva/Ashay | June 8     |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|    8 | Introduction to AWS                                                            | Siva       | June 9     |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|    9 | VLEAD infrastructure in AWS                                                    | Siva/Ashay | June 10    |
+|------+--------------------------------------------------------------------------------+------------+------------|
+|   10 | Required components of Systems model                                           | Siva       | June 11    |
+|------+--------------------------------------------------------------------------------+------------+------------|
+
