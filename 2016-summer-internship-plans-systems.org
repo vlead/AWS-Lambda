@@ -15,20 +15,19 @@ Read about AWS Lambda from http://docs.aws.amazon.com/lambda/latest/dg/welcome.h
 Read about AWS Docker from https://aws.amazon.com/docker/
 * Interns and Mentors
 
-  |-------+---------+------------+--------------+--------------|
-  | S.No. | Name    | Project    | Mentor       | Bakup mentor |
-  |-------+---------+------------+--------------+--------------|
-  |    1. | Meghana | AWS Docker | Siva Shakkar | Ashay        |
-  |-------+---------+------------+--------------+--------------|
-  |    2. | Ganesh  | AWS Lambda | Ashay        | Shiva        |
-  |-------+---------+------------+--------------+--------------|
+  |-------+---------+------------+------------------+------------------|
+  | S.No. | Name    | Project    | Mentor           | Bakup mentor     |
+  |-------+---------+------------+------------------+------------------|
+  |    1. | Meghana | AWS Docker | Siva Shankar     | Ashay Maheshwari |
+  |-------+---------+------------+------------------+------------------|
+  |    2. | Ganesh  | AWS Lambda | Ashay Maheshwari | Shiva Shankar    |
+  |-------+---------+------------+------------------+------------------|
  
-  
 * Goals and intentions
 + Suggest a strategy to shift our architecture from AWS VMs to either AWS Lambda or AWS Docker.
 + Document learning and come up with a solution addressing Performance,
-  security, scalability and cost benefits of using Docker or Lambda.
-+ Compare current AWS VM architecture with Possibilities in Docker and Lambda. 
+  security, scalability, cost benefits and other important parameters of using Docker or Lambda.
++ Compare current AWS VM architecture with possibilities in Docker and Lambda. 
 
 * Role of Mentor/Supervisor
 + Conducting or helping interns in induction program.
@@ -70,11 +69,11 @@ How secure will be AWS Lambda or Docker ? Are there some security flaws observed
 Minor changes should not result in disturbance to healthy running component.
 AWS being a gaint in cloud could have taken care of this.
 
-* Week wise plan(only for first 2 weeks)
+* Week wise plan(only for upcoming week)
 ** Bootcamp(week 1 to week 3) [May 16,2016 ,June 5 2016]
-First week includes a similiar plan for all interns. 
-An induction/boot camp will be conducted for an ice breaking session with individuals and also with new technologies 
-used in Virtual Labs. 
+   First 3 weeks includes a similiar plan for all interns. 
+   An induction/boot camp will be conducted for an ice breaking session with
+   individuals and also to introduce them with new technologies used in Virtual Labs. 
 ** Week 4 
 **** Basics of networking and networking in linux
 This session is required to introduce interns with terms which will be used
@@ -112,14 +111,13 @@ major technologies required to work in Systems environment of VLEAD.
  
 
 
-
 * Sessions
 Following will be the sessions taken from June 3, 2016 for next week(week 4)
 
 |------+--------------------------------------------------------------------------------+------------+------------|
 | S.No | Session                                                                        | Tutor      | Date(2016) |
 |------+--------------------------------------------------------------------------------+------------+------------|
-|    1 | Basic linux commands                                                           | Self       | June 3     |
+|    1 | Basic Linux commands                                                           | Self       | June 3     |
 |------+--------------------------------------------------------------------------------+------------+------------|
 |    2 | Basic Networking                                                               | Ashay      | June 6     |
 |------+--------------------------------------------------------------------------------+------------+------------|
