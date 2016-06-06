@@ -48,7 +48,7 @@ Read about AWS Docker from https://aws.amazon.com/docker/
 * Expectations from interns after accomplishment of internship
 Project kept under Systems are more of exploration. Interns are expected to have thorough understanding on the project 
 assigned to them and must be able to put up a nice presentation.
-We have our current architecture in AWS. Interns are expected to compare AWS VM, AWS Lambda and AWS Docker architecture in the following concerns -
+We have our current architecture in AWS. Interns are expected to compare AWS VM, AWS Lambda and AWS Docker architecture in the following concerns(Please add more factors if required) -
 ** Performance 
 Our current architecture with AWS VMs is giving high degree of performance in terms of availablity, zero downtime, easy of handling, scalability and 
 security. Cost optimization is the concern as wit every VM, the AWS billing is increaing. If we can acheive same performance, with either AWS Docker 
