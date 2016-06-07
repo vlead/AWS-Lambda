@@ -125,11 +125,11 @@ Following will be the sessions taken from June 3, 2016 for next week(week 4)
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
 |    3 | Networking in Linux                                                            | Siva       | June 6     | Done   |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
-|    4 | Overview of VLEAD local infrastructure(Introduction only)                      | Ashay/Siva | June 7     |        |
+|    4 | Overview of VLEAD local infrastructure(Introduction only)                      | Ashay      | June 7     | Done   |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
-|    5 | Virtualization Concepts                                                        | Ashay      | June 7     |        |
+|    5 | Virtualization Concepts                                                        | Ashay      | June 7     | Done   |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
-|    6 | Hands on with OpenVz                                                           | Sanchita   | June 7     |        |
+|    6 | Hands on with OpenVz                                                           | Raghupathi | June 7     | Done   |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
 |    7 | Detailed study of VLEAD infrastructure(Apache, DNS, Reverse proxy, router etc) | Siva/Ashay | June 8     |        |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
