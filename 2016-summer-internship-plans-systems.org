@@ -131,12 +131,12 @@ Following will be the sessions taken from June 3, 2016 for next week(week 4)
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
 |    6 | Hands on with OpenVz                                                           | Raghupathi | June 7     | Done   |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
-|    7 | Detailed study of VLEAD infrastructure(Apache, DNS, Reverse proxy, router etc) | Siva/Ashay | June 8     |        |
+|    7 | Detailed study of VLEAD infrastructure(Apache, DNS, Reverse proxy, router etc) | Siva       | June 8     | Done   |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
-|    8 | Introduction to AWS                                                            | Siva       | June 9     |        |
+|    8 | Introduction to AWS                                                            | Siva       | June 8     | Done   |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
-|    9 | VLEAD infrastructure in AWS                                                    | Siva/Ashay | June 10    |        |
+|    9 | VLEAD infrastructure in AWS                                                    | Siva       | June 8     | Done   |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
-|   10 | Required components of Systems model                                           | Siva       | June 11    |        |
+|   10 | Required components of Systems model                                           | Siva       | June 8     | Done   |
 |------+--------------------------------------------------------------------------------+------------+------------+--------|
 
