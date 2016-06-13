@@ -181,3 +181,30 @@ Apply basic commands on local machine to play with docker images and container.
 |   4. | Identify the limitations of using AWS Lambda | Self  | June 15 | Ganesh |
 |------+----------------------------------------------+-------+---------+--------|
 
+* Deliverable
+Interns have to put up a presentation once they start working on their
+respective core projects. Every presentation should be prepared keeping in
+mind a few deliverable. Deliverable will be mentioned, against which interns
+need to prepare a documentation and demonstrate their learning.
+
+** Presentation 1, Friday, June 17, 2016
+Interns are expected to present, covering the following deliverable.
+
+|------+------------------------------------------------------------------+---------------|
+| S.No | Deliverable                                                      | Demo Required |
+|------+------------------------------------------------------------------+---------------|
+|   1. | Installation of Docker                                           | NO            |
+|------+------------------------------------------------------------------+---------------|
+|   2. | Docker operations -                                              |               |
+|      | a) Create/Delete Containers                                      |               |
+|      | b) Install applications inside containers                        |               |
+|      | c) List images, containers, and running processes                |               |
+|      | d) Other Docker operation commands                               | YES           |
+|      | e) DockerFile                                                    |               |
+|      | f) Start/Stop containers                                         |               |
+|      | g) Demonize a container                                          |               |
+|------+------------------------------------------------------------------+---------------|
+|    3 | Host a simple web application in you container :                 | YES           |
+|      | This includes, installing web server and host a simple html page |               |
+|------+------------------------------------------------------------------+---------------|
+
