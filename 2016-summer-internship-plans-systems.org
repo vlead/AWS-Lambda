@@ -193,18 +193,25 @@ Interns are expected to present, covering the following deliverable.
 |------+------------------------------------------------------------------+---------------|
 | S.No | Deliverable                                                      | Demo Required |
 |------+------------------------------------------------------------------+---------------|
-|   1. | Installation of Docker                                           | NO            |
+| 1.   | Installation of Docker                                           | NO            |
 |------+------------------------------------------------------------------+---------------|
-|   2. | Docker operations -                                              |               |
-|      | a) Create/Delete Containers                                      |               |
-|      | b) Install applications inside containers                        |               |
-|      | c) List images, containers, and running processes                |               |
-|      | d) Other Docker operation commands                               | YES           |
-|      | e) DockerFile                                                    |               |
-|      | f) Start/Stop containers                                         |               |
-|      | g) Demonize a container                                          |               |
+| 2.   | Docker operations -                                              |               |
 |------+------------------------------------------------------------------+---------------|
-|    3 | Host a simple web application in you container :                 | YES           |
+| a).  | Create/Delete Containers                                         | YES           |
+|------+------------------------------------------------------------------+---------------|
+| b).  | Install applications inside containers                           | YES           |
+|------+------------------------------------------------------------------+---------------|
+| c).  | List images, containers, and running processes                   | YES           |
+|------+------------------------------------------------------------------+---------------|
+| d).  | Other Docker operation commands                                  | YES           |
+|------+------------------------------------------------------------------+---------------|
+| e).  | DockerFile                                                       | YES           |
+|------+------------------------------------------------------------------+---------------|
+| f).  | Start/Stop containers                                            | YES           |
+|------+------------------------------------------------------------------+---------------|
+| g).  | Demonize a container                                             | YES           |
+|------+------------------------------------------------------------------+---------------|
+| 3    | Host a simple web application in you container :                 | YES           |
 |      | This includes, installing web server and host a simple html page |               |
 |------+------------------------------------------------------------------+---------------|
 
