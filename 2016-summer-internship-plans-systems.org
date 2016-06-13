@@ -187,7 +187,7 @@ respective core projects. Every presentation should be prepared keeping in
 mind a few deliverable. Deliverable will be mentioned, against which interns
 need to prepare a documentation and demonstrate their learning.
 
-** Presentation 1, Friday, June 17, 2016
+** Docker Presentation 1, Friday, June 17, 2016
 Interns are expected to present, covering the following deliverable.
 
 |------+------------------------------------------------------------------+---------------|
@@ -197,21 +197,39 @@ Interns are expected to present, covering the following deliverable.
 |------+------------------------------------------------------------------+---------------|
 | 2.   | Docker operations -                                              |               |
 |------+------------------------------------------------------------------+---------------|
-| a).  | Create/Delete Containers                                         | YES           |
+|      | Create/Delete Containers                                         | YES           |
 |------+------------------------------------------------------------------+---------------|
-| b).  | Install applications inside containers                           | YES           |
+|      | Install applications inside containers                           | YES           |
 |------+------------------------------------------------------------------+---------------|
-| c).  | List images, containers, and running processes                   | YES           |
+|      | List images, containers, and running processes                   | YES           |
 |------+------------------------------------------------------------------+---------------|
-| d).  | Other Docker operation commands                                  | YES           |
+|      | Other Docker operation commands                                  | YES           |
 |------+------------------------------------------------------------------+---------------|
-| e).  | DockerFile                                                       | YES           |
+|      | DockerFile                                                       | YES           |
 |------+------------------------------------------------------------------+---------------|
-| f).  | Start/Stop containers                                            | YES           |
+|      | Start/Stop containers                                            | YES           |
 |------+------------------------------------------------------------------+---------------|
-| g).  | Demonize a container                                             | YES           |
+|      | Demonize a container                                             | YES           |
 |------+------------------------------------------------------------------+---------------|
 | 3    | Host a simple web application in you container :                 | YES           |
 |      | This includes, installing web server and host a simple html page |               |
 |------+------------------------------------------------------------------+---------------|
+
+** AWS Lambda Presentation, Friday, June 17, 2016
+
+|------+----------------------------------------------------+---------------|
+| S.No | Deliverable                                        | Demo Required |
+|------+----------------------------------------------------+---------------|
+|   1. | Introduction to Lambda                             | NO            |
+|------+----------------------------------------------------+---------------|
+|   2. | Benefits of using Lambda                           | NO            |
+|------+----------------------------------------------------+---------------|
+|   3. | How to use Lambda                                  |               |
+|------+----------------------------------------------------+---------------|
+|   4. | How VLEAD can use Lambda                           |               |
+|------+----------------------------------------------------+---------------|
+|   5. | Limitations of Lambda                              |               |
+|------+----------------------------------------------------+---------------|
+|   6. | Contrast Lambda for factors given in this document |               |
+|------+----------------------------------------------------+---------------|
 
