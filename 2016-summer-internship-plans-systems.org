@@ -25,7 +25,6 @@ Read about AWS Docker from https://aws.amazon.com/docker/
   |    3. | Ganesh  | AWS Lambda | Ashay Maheshwari | Shiva Shankar    |
   |-------+---------+------------+------------------+------------------|
   
- 
 * Goals and intentions
 + Suggest a strategy to shift our architecture from AWS VMs to either AWS Lambda or AWS Docker.
 + Document learning and come up with a solution addressing Performance,
@@ -215,7 +214,7 @@ Interns are expected to present, covering the following deliverable.
 |      | This includes, installing web server and host a simple html page |               |
 |------+------------------------------------------------------------------+---------------|
 
-** AWS Lambda Presentation, Friday, June 17, 2016
+** AWS Lambda Presentation 1, Friday, June 17, 2016
 
 |------+----------------------------------------------------+---------------|
 | S.No | Deliverable                                        | Demo Required |
@@ -232,4 +231,27 @@ Interns are expected to present, covering the following deliverable.
 |------+----------------------------------------------------+---------------|
 |   6. | Contrast Lambda for factors given in this document |               |
 |------+----------------------------------------------------+---------------|
+
+
+
+** Docker Presentation 2. Wednesday, June 22, 2016
+Interns are expected to present covering the following deliverable 
+
+|------+-------------------------------------------------------------------+---------------|
+| S.No | Deliverable                                                       | Demo Required |
+|------+-------------------------------------------------------------------+---------------|
+|   1. | Auto start and containers                                         | YES           |
+|------+-------------------------------------------------------------------+---------------|
+|   2. | ENTRYPOINT option in DOckerFile                                   | YES           |
+|------+-------------------------------------------------------------------+---------------|
+|   3. | Local Repositories for saving Docker images                       | YES           |
+|------+-------------------------------------------------------------------+---------------|
+|   4. | Amazon docker pricing and resource allocation                     | YES           |
+|------+-------------------------------------------------------------------+---------------|
+|   5. | Docker containers backup                                          | YES           |
+|------+-------------------------------------------------------------------+---------------|
+|   6. | Command line history for container                                | YES           |
+|------+-------------------------------------------------------------------+---------------|
+|   7. | How files of a docker container can be accessed from host machine | YES           |
+|------+-------------------------------------------------------------------+---------------|
 
