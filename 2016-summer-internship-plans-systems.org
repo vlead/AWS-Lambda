@@ -259,9 +259,9 @@ Interns are expected to present covering the following deliverable
 |------+------------------------------------------------------------------+---------------+--------|
 | S.No | Deliverable                                                      | Demo Required | Status |
 |------+------------------------------------------------------------------+---------------+--------|
-|   1. | Limit CPU memory for a contianer                                 | YES           |        |
+|   1. | Limit CPU/memory for a contianer                                 | YES           |        |
 |------+------------------------------------------------------------------+---------------+--------|
-|   2. | Apply a form bomb to check memory utilization after memory limit | YES           |        |
+|   2. | Apply a fork bomb to check memory utilization after memory limit | YES           |        |
 |------+------------------------------------------------------------------+---------------+--------|
 |   3. | Deploy two labs on container                                     | YES           |        |
 |------+------------------------------------------------------------------+---------------+--------|
@@ -269,7 +269,7 @@ Interns are expected to present covering the following deliverable
 |------+------------------------------------------------------------------+---------------+--------|
 |   5. | Deploy lab on all 200 contianers                                 | YES           |        |
 |------+------------------------------------------------------------------+---------------+--------|
-|   6. | Undestand Data volume                                            | YES           |        |
+|   6. | Understand Data volume                                           | YES           |        |
 |------+------------------------------------------------------------------+---------------+--------|
 
 
